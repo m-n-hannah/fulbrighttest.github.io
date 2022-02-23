@@ -1,4 +1,19 @@
 theme: jekyll-theme-hacker
 title: Fulbright Specialist to Morocco
 description: Site to house instructions, code, and data for Matthew Hannah\'s Fulbright Specialist trip to Morocco in 2022.
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Open Refine
+  url: /open-refine/
+
+- title: CV
+  url: /cv/
+
+- title: Blog
+  url: /blog/
+
+- title: Workshops
+  url: /workshops/
 
