@@ -1,43 +1,4 @@
 theme: jekyll-theme-midnight
 title: Fulbright Specialist to Morocco
-description: Site to house instructions, code, and data for Matthew Hannah's Fulbright Specialist trip to Morocco in 2022.
-# Site navigation links
-- title: Home
-  url: /
-
-- layout: page
-  title: Open Refine
-  url: /open-refine/
-
-- layout: page
-  title: Antconc
-  url: /antconc/
-
-- layout: page
-  title: Voyant Tools
-  url: /voyant/
-
-- layout: page
-  title: StoryMaps
-  url: /story/
-  
-- layout: page
-  title: Tableau
-  url: /tableau/
-  
-- layout: page
-  title: VosViewer
-  url: /vosviewer/
- 
-- layout: page
-  title: Cytoscape
-  url: /cytoscape/
-  
-- layout: page
-  title: TEI
-  url: /tei/
- 
-- layout: page
-  title: Omeka
-  url: /omeka/
+description: Site to house instructions, code, and data for Fulbright Specialist trip to Morocco in 2022.
 
