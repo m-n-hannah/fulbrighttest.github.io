@@ -5,15 +5,39 @@ description: Site to house instructions, code, and data for Matthew Hannah\'s Fu
 - title: Home
   url: /
 
-- title: Open Refine
+- layout: page
+  title: Open Refine
   url: /open-refine/
 
-- title: CV
-  url: /cv/
+- layout: page
+  title: Antconc
+  url: /antconc/
 
-- title: Blog
-  url: /blog/
+- layout: page
+  title: Voyant Tools
+  url: /voyant/
 
-- title: Workshops
-  url: /workshops/
+- layout: page
+  title: StoryMaps
+  url: /story/
+  
+- layout: page
+  title: Tableau
+  url: /tableau/
+  
+- layout: page
+  title: VosViewer
+  url: /vosviewer/
+ 
+- layout: page
+  title: Cytoscape
+  url: /cytoscape/
+  
+- layout: page
+  title: TEI
+  url: /tei/
+ 
+- layout: page
+  title: Omeka
+  url: /omeka/
 
