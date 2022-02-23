@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Fulbright Specialist Workshops 
+### Series of Digital Humanities Workshops Offered by Matthew Hannah in March 2022 at Al Akhawayn University and University Abdelmalek Essaadi in the Kingdom of Morocco. This GitHub site is a central hub for code, data, and instructions for these workshops.
 
-You can use the [editor on GitHub](https://github.com/m-n-hannah/m-n-hannah.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
