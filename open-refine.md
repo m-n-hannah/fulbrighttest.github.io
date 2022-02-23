@@ -1,1 +1,1 @@
-# Instructions for Open-Refine Workshop
+## Instructions for Open-Refine Workshop
