@@ -15,5 +15,5 @@ navigation:
 
 external: 
   #-{title: Mail, icon: enevelope, url: "mailto:hannah8@purdue.edu"}
-  -{title: Github, icon: github, url: "https://github.com/m-n-hannah"}
-  -{title: Twitter, icon: twitter, url: "https://twitter.com/TinkeringHuman"}
+  #-{title: Github, icon: github, url: "https://github.com/m-n-hannah"}
+  #-{title: Twitter, icon: twitter, url: "https://twitter.com/TinkeringHuman"}
