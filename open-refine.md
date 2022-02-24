@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Refine
+title: "Open Refine"
 ---
 
 ## Instructions for Open-Refine Workshop
