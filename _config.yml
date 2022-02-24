@@ -2,6 +2,9 @@ theme: jekyll-theme-midnight
 title: Fulbright Specialist to Morocco
 description: Site to house instructions, code, and data for Fulbright Specialist trip to Morocco in 2022.
 
+#Layout
+show_social: true
+
 # Menu
 navigation: 
   -{file: "index.md", title: "Home", icon: home}
