@@ -7,7 +7,7 @@ show_social: true
 
 # Menu
 navigation: 
-  -{file: "index.html", title: "Home", icon: home}
+  -{file: "index.md", title: "Home", icon: home}
   #-{file: "open-refine.md", title: "Open Refine", icon: address-card}
   
 # External
